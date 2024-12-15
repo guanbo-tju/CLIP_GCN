@@ -342,3 +342,5 @@ def proc_valid_step_output(raw_data, nr_types=None):
     track_dict["image"]["output"] = viz_fig
 
     return track_dict
+
+print("ceshi")
